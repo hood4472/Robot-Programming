@@ -2,6 +2,8 @@
 background-color: #000000;
 border: 5px solid #ffffff;
   color: #c6ced4;
+  width: 100%;
+  height: 100px;
 }
 body {
 background-color: #c6ced4;}
